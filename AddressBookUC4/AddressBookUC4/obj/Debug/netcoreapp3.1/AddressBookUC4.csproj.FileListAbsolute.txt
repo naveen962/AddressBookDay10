@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\bin\Debug\netcoreapp3.1\AddressBookUC4.exe
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\bin\Debug\netcoreapp3.1\AddressBookUC4.deps.json
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\bin\Debug\netcoreapp3.1\AddressBookUC4.runtimeconfig.json
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\bin\Debug\netcoreapp3.1\AddressBookUC4.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\bin\Debug\netcoreapp3.1\AddressBookUC4.dll
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\bin\Debug\netcoreapp3.1\AddressBookUC4.pdb
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.dll
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.pdb
+C:\Users\INDIA\source\repos\AddressBookUC4\AddressBookUC4\obj\Debug\netcoreapp3.1\AddressBookUC4.genruntimeconfig.cache
