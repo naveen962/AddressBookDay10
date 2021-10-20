@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Usecase8_Search_Person_By_State/1.0.0": {
+        "runtime": {
+          "Usecase8_Search_Person_By_State.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usecase8_Search_Person_By_State/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

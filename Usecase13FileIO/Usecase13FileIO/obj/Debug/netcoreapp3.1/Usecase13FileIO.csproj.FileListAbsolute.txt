@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\bin\Debug\netcoreapp3.1\Usecase13FileIO.exe
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\bin\Debug\netcoreapp3.1\Usecase13FileIO.deps.json
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\bin\Debug\netcoreapp3.1\Usecase13FileIO.runtimeconfig.json
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\bin\Debug\netcoreapp3.1\Usecase13FileIO.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\bin\Debug\netcoreapp3.1\Usecase13FileIO.dll
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\bin\Debug\netcoreapp3.1\Usecase13FileIO.pdb
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.dll
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.pdb
+C:\Users\INDIA\source\repos\Usecase13FileIO\Usecase13FileIO\obj\Debug\netcoreapp3.1\Usecase13FileIO.genruntimeconfig.cache
