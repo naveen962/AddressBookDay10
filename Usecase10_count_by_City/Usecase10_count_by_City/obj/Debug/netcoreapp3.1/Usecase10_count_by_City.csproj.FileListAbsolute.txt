@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\bin\Debug\netcoreapp3.1\Usecase10_count_by_City.exe
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\bin\Debug\netcoreapp3.1\Usecase10_count_by_City.deps.json
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\bin\Debug\netcoreapp3.1\Usecase10_count_by_City.runtimeconfig.json
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\bin\Debug\netcoreapp3.1\Usecase10_count_by_City.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\bin\Debug\netcoreapp3.1\Usecase10_count_by_City.dll
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\bin\Debug\netcoreapp3.1\Usecase10_count_by_City.pdb
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.dll
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.pdb
+C:\Users\INDIA\source\repos\Usecase10_count_by_City\Usecase10_count_by_City\obj\Debug\netcoreapp3.1\Usecase10_count_by_City.genruntimeconfig.cache

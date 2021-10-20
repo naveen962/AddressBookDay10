@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Usecase10_count_by_City/1.0.0": {
+        "runtime": {
+          "Usecase10_count_by_City.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usecase10_count_by_City/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
