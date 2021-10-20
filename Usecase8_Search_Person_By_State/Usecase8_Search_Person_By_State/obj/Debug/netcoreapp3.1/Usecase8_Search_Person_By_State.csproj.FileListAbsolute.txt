@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\bin\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.exe
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\bin\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.deps.json
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\bin\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.runtimeconfig.json
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\bin\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\bin\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.dll
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\bin\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.pdb
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.dll
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.pdb
+C:\Users\INDIA\source\repos\Usecase8_Search_Person_By_State\Usecase8_Search_Person_By_State\obj\Debug\netcoreapp3.1\Usecase8_Search_Person_By_State.genruntimeconfig.cache
