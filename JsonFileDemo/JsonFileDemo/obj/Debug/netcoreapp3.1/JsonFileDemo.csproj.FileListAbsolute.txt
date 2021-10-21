@@ -1,0 +1,17 @@
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\JsonFileDemo.exe
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\JsonFileDemo.deps.json
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\JsonFileDemo.runtimeconfig.json
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\JsonFileDemo.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\JsonFileDemo.dll
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\JsonFileDemo.pdb
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.csproj.CopyComplete
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.dll
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.pdb
+C:\Users\INDIA\source\repos\JsonFileDemo\JsonFileDemo\obj\Debug\netcoreapp3.1\JsonFileDemo.genruntimeconfig.cache
